@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "structureeyes:fortress_eye"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:chiseled_polished_blackstone"
+    }
+  ],
+  "result": {
+    "item": "structureeyes:bastion_remnant_eye",
+    "count": 1
+  }
+}
